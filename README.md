@@ -1,8 +1,5 @@
 ### Hi there, I'm Ikrame 👋
 
-<!--
-**ikramebakkari/ikramebakkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Gist About me
 
 🎤 I am a software engineering student 
