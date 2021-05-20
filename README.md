@@ -5,7 +5,6 @@ Gist About me
 🎤 I am a software engineering student 
 🛸 Learning everyday, currently learning to master GraphQL, React, TS etc ...
 🌋 I’m always looking for challenging work oppurtunities ahead.
-📬 How to reach me: Let's get in touch!
 ⛹️‍Frequently active hitting dribbble shots here
 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
