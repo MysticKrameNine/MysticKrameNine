@@ -6,7 +6,7 @@ Gist About me
 🛸 Learning everyday, currently learning to master GraphQL, React, TS etc ...
 🌋 I’m always looking for challenging work oppurtunities ahead.
 ⛹️‍Frequently active hitting dribbble shots here
-🧗🏾‍♀️ I try to: Go beyond and push the bounds
+🧗🏾‍♀️ I try to go beyond and push the bounds
 
 
 I strongly believe we the professionals of tech industry need to learn and innovate.
