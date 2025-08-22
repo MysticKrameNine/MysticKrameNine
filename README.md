@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ikrame ! 
 <h3 align="center">A passionate Software Engineer with a French CS degree</h3>
-<img align="right" alt="Ikrame coding.." width="400" src="https://media.licdn.com/dms/image/v2/D4E22AQHE37kIkg_Niw/feedshare-shrink_800/feedshare-shrink_800/0/1696081209939?e=2147483647&v=beta&t=NodNaaR4UcwyARQWDPxOxb4QsXkFbu7LbY5zVVf8Svg">
+<img align="right" alt="Ikrame coding.." width="400" src="https://i.pinimg.com/originals/b2/80/b6/b280b67696c1a7d17a6d26e46ff9f254.gif">
 
 
 
