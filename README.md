@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Ikrame ! 
 
 <h3 align="center">A passionate Software Engineer with a French CS degree</h3>
-<img align="right" alt="Ikrame coding.." width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Ikrame coding.." width="400" src="[https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://media.licdn.com/dms/image/v2/D4E22AQHE37kIkg_Niw/feedshare-shrink_800/feedshare-shrink_800/0/1696081209939?e=2147483647&v=beta&t=NodNaaR4UcwyARQWDPxOxb4QsXkFbu7LbY5zVVf8Svg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MysticKrameNine&label=Profile%20views&color=0e75b6&style=flat" alt="MysticKrameNine" /> </p>
 
